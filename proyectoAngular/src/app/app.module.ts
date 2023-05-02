@@ -13,7 +13,7 @@ import { BuscadorComponent } from './shop/buscador/buscador.component';
 import { CarritoComponent } from './shop/carrito/carrito.component';
 import { ConsejoComponent } from './consejo/consejo.component';
 import { LoginComponent } from './auth/login/login.component';
-import { RegistroComponent } from './auth/login/registro/registro.component';
+import { RegistroComponent } from './auth/registro/registro.component';
 
 @NgModule({
   declarations: [

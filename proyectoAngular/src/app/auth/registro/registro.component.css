@@ -44,27 +44,27 @@
 /*------------------------------ FUENTES ---------------------------------*/
 @font-face {
     font-family: "principal";
-    src: url("../../assets/fuentes/Karma-Regular.ttf");
+    src: url("../../../assets/fuentes/Karma-Regular.ttf");
 }
 
 @font-face {
     font-family: "secundaria1";
-    src: url("../../assets/fuentes/Quicksand-Regular.ttf");
+    src: url("../../../assets/fuentes/Quicksand-Regular.ttf");
 }
 
 @font-face {
     font-family: "secundaria2";
-    src: url("../../assets/fuentes/MADEOkineSansPERSONALUSE-Medium.otf");
+    src: url("../../../assets/fuentes/MADEOkineSansPERSONALUSE-Medium.otf");
 }
 
 @font-face {
     font-family: "secundaria3";
-    src: url("../../assets/fuentes/Glorifydemo-BW3J3.otf");
+    src: url("../../../assets/fuentes/Glorifydemo-BW3J3.otf");
 }
 
 @font-face {
     font-family: "secundaria4";
-    src: url("../../assets/fuentes/TenorSans-Regular.ttf");
+    src: url("../../../assets/fuentes/TenorSans-Regular.ttf");
 }
 
 * {

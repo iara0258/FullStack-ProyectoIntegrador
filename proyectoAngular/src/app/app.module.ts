@@ -11,6 +11,9 @@ import { PortadaComponent } from './shop/portada/portada.component';
 import { LayoutTiendaComponent } from './shop/layout-tienda/layout-tienda.component';
 import { BuscadorComponent } from './shop/buscador/buscador.component';
 import { CarritoComponent } from './shop/carrito/carrito.component';
+import { ConsejoComponent } from './consejo/consejo.component';
+import { LoginComponent } from './auth/login/login.component';
+import { RegistroComponent } from './auth/login/registro/registro.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +25,10 @@ import { CarritoComponent } from './shop/carrito/carrito.component';
     PortadaComponent,
     LayoutTiendaComponent,
     BuscadorComponent,
-    CarritoComponent
+    CarritoComponent,
+    ConsejoComponent,
+    LoginComponent,
+    RegistroComponent
   ],
   imports: [
     BrowserModule,
